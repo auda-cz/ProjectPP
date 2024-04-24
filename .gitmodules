@@ -1,0 +1,3 @@
+[submodule "WireConnet"]
+	path = WireConnet
+	url = ../WireConnet.git
