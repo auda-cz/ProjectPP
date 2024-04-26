@@ -1,3 +1,6 @@
 [submodule "WireConnet"]
 	path = WireConnet
 	url = ../WireConnet.git
+[submodule "SRRFtransceiver"]
+	path = SRRFtransceiver
+	url = ../SRRFtransceiver.git

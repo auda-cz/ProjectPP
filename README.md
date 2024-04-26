@@ -6,12 +6,12 @@ Meta repository for projects running on PP. The motivation is to archieve and pr
 
 PP refers to Pipi, the name of my Raspberry Pi 4B, running LNMP(Debian) stack.
 ## Submodules
-- [WireConnect](WireConnet/)
-- [iPPtables]()
-- [SRRFtransceiver]()
+- [SRRFtransceiver](SRRFtransceiver/)
 - [Dashboard]()
 - [TempMon]()
 - [SmartOutlets]()
 - [Shadowsocks-libev]()
 - [vlmcsd]()
+- [WireConnect](WireConnet/)
+- [iPPtables]()
 - [DDNS]()
