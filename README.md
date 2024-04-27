@@ -6,12 +6,12 @@ Meta repository for projects running on PP. The motivation is to archieve and pr
 
 PP refers to Pipi, the name of my Raspberry Pi 4B, running LNMP(Debian) stack.
 ## Submodules
-- [SRRFtransceiver](SRRFtransceiver/)
+- [SRRFtransceiver](https://github.com/auda-cz/SRRFtransceiver)
 - [Dashboard]()
-- [TempMon]()
+- [TempMon](https://github.com/auda-cz/TempMon)
 - [SmartOutlets]()
 - [Shadowsocks-libev]()
 - [vlmcsd]()
-- [WireConnect](WireConnet/)
+- [WireConnect](https://github.com/auda-cz/WireConnet/)
 - [iPPtables]()
 - [DDNS]()

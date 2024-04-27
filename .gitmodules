@@ -4,3 +4,9 @@
 [submodule "SRRFtransceiver"]
 	path = SRRFtransceiver
 	url = ../SRRFtransceiver.git
+[submodule "SHTC3x-pigpio"]
+	path = SHTC3x-pigpio
+	url = ../SHTC3x-pigpio.git
+[submodule "TempMon"]
+	path = TempMon
+	url = ../TempMon.git
