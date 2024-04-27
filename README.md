@@ -15,3 +15,6 @@ PP refers to Pipi, the name of my Raspberry Pi 4B, running LNMP(Debian) stack.
 - [WireConnect](https://github.com/auda-cz/WireConnet/)
 - [iPPtables]()
 - [DDNS]()
+
+## License
+This project is released under GNU GPL-3.
