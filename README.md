@@ -7,14 +7,17 @@ Meta repository for projects running on PP. The motivation is to archieve and pr
 PP refers to Pipi, the name of my Raspberry Pi 4B, running LNMP(Debian) stack.
 ## Submodules
 - [SRRFtransceiver](https://github.com/auda-cz/SRRFtransceiver)
-- [Dashboard]()
+- [Dashboard](https://github.com/auda-cz/Dashboard)
 - [TempMon](https://github.com/auda-cz/TempMon)
-- [SmartOutlets]()
-- [Shadowsocks-libev]()
-- [vlmcsd]()
+- [SHTC3interface](https://github.com/auda-cz/SHTC3x-pigpio)
+- [WebControl](https://github.com/auda-cz/WebControl)
+- [SpeedTest](https://github.com/auda-cz/SpeedTest)
 - [WireConnect](https://github.com/auda-cz/WireConnet/)
-- [iPPtables]()
-- [DDNS]()
+- Miscs for later
+    - [iPPtables]()
+    - [Shadowsocks-libev]()
+    - [DDNS]()
+    - [vlmcsd]()
 
 ## License
 This project is released under GNU GPL-3.

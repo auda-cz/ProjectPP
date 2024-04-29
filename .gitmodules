@@ -10,3 +10,12 @@
 [submodule "TempMon"]
 	path = TempMon
 	url = ../TempMon.git
+[submodule "Dashboard"]
+	path = Dashboard
+	url = ../Dashboard.git
+[submodule "WebControl"]
+	path = WebControl
+	url = ../WebControl.git
+[submodule "SpeedTest"]
+	path = SpeedTest
+	url = ../SpeedTest.git
