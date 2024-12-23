@@ -13,12 +13,11 @@ PP refers to Pipi, the name of my Raspberry Pi 4B, running LNMP(Debian) stack.
 - [WebControl](https://github.com/auda-cz/WebControl)
 - [SpeedTest](https://github.com/auda-cz/SpeedTest)
 - [WireConnect](https://github.com/auda-cz/WireConnet/)
-- [KeepConnectionOpen](https://github.com/auda-cz/KeepConnectionOpen/)
-- *Memo-scripts for later*
-    - ipptables
-    - DDNS
-    - vlmcsd
-    - certbot
+- Miscs for later
+    - [iPPtables]()
+    - [Shadowsocks-libev]()
+    - [DDNS]()
+    - [vlmcsd]()
 
 ## License
 This project is released under GNU GPL-3.

@@ -19,6 +19,3 @@
 [submodule "SpeedTest"]
 	path = SpeedTest
 	url = ../SpeedTest.git
-[submodule "KeepConnectionOpen"]
-	path = KeepConnectionOpen
-	url = ../KeepConnectionOpen.git
