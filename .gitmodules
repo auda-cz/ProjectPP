@@ -19,3 +19,6 @@
 [submodule "SpeedTest"]
 	path = SpeedTest
 	url = ../SpeedTest.git
+[submodule "ConnectOpen"]
+	path = ConnectOpen
+	url = ../ConnectOpen.git
